@@ -1,0 +1,22 @@
+Tested:
+-first run with "-n -c" renewing an existing cert and obtaining a new one
+-"-n -L -u"
+-"-p" "-p -q" "-p -c"
+-"-d -c"
+-L
+-u
+-z
+-p
+-x
+-e
+-q (still does some output, needs more redirecting)
+-invalid combinations as specified in usage
+-Zimbra versions/OSs: 8.8.8_UBUNTU16, 8.8.12_UBUNTU16, 8.8.11_RHEL7 (CentOS)
+
+Untested:
+-N
+-a
+-H
+-s
+-j
+-w
